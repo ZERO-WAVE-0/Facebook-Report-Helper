@@ -38,7 +38,7 @@ pkg install python git -y
 ```
 স্ক্রিপ্ট ডাউনলোড:
 ```
-git clone https://github.com/yourusername/fb-report-helper.git
+git clone https://github.com/ZERO-WAVE-0/fb-report-helper.git
 cd fb-report-helper
 ```
 রান করার আগে executable পারমিশন দিন (optional):
